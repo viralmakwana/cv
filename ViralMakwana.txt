@@ -1,0 +1,253 @@
+Viral Makwana 
+
+19 Owen Road, Hayes Middlesex
+
+020 8797 3755
+
+07891468348
+
+https://github.com/viralmakwana/
+
+viral.makwana09@gmail.com
+
+							
+
+Personal Profile
+
+I enjoy challenges and am committed to exceeding personal and set
+expectations. With excellent communication and presentation skills, I
+welcome teamwork where I posses the ability to work and build
+relationships with people across all levels.
+
+Employment :
+
+Date: March 2013 – Present
+
+Linux Enterprise Administrator
+
+This role in particular is working with high spend clients to deliver
+fanatical support in the Rackspace Enterprise segment. 
+
+Roles includes, but not limited to:
+
+Helping customers get the most of our dedicated equipment and help them
+to fine tune their setups. This includes working with mostly RedHat ( 5
+-> 6 ) and CentOS systems.
+
+Managing the patching for a customers server. Each server is registered
+with a internal satellite server which mirrors packages from RedHat.
+
+Working extensively with the 'LAMP' stack. In particular dealing with
+issues relating to Apache and MySQL. Ranging from simple creation of
+virtualhosts to debugging simple queries within MySQL
+
+Working with email systems such as Postfix. Whether to setup a new relay
+or configure inbound mail.
+
+Writing shell scripts to automate common tasks. This can range from
+creating users across an entire customer server estate to more complex
+scripts.
+
+Being on the 'QC' team, to help setup new servers for customers. These
+servers need to go through a vigorous testing phase before being handed
+off to customers.
+
+Working with RHCS extensively. Including creating new clusters, to
+troubleshooting clusters. Mainly this is for RHEL | CentOS 6 systems.
+
+Using github to simplify script and code maintenance
+
+Dealing with all manner of Linux related OS-side problems on servers.
+This includes, corrupted filesystems, troubleshooting high load,
+patching using yum and rpm. Working with LVM volumes extensively and
+much more besides.
+
+Working with internal teams to help deliver a more seamless experience
+for the end customer and working with account teams to help them
+understand complex solutions in a simple, friendly way.
+
+Working with customers to help better their solutions. This can include
+better management of their users using LDAP, to using a SAN solution for
+their storage needs. 
+
+Dealing with high level incidents in a timely manner. This has recently
+included Shellshock | Poodle | GHOST and heartbleed. Its important such
+vulnerabilties are fixed in a timely manner..
+
+Working on 'Hybrid' setups which implement both cloud technologies and
+dedicated equipment, and helping to ensure a seamless process between
+the 2.
+
+Working extensively with NFS filesystems, including troubleshooting and
+recommending the appropriate use of NFS. ( v3 and v4 )
+
+Working on customer PCI requirements.
+
+Slow introducing customers to the world of RHEL7
+
+Date: March 2012 – March 2013
+
+Cloud Support Administrator
+
+Rackspace:
+
+Rackspace® is the global leader in hybrid cloud and founder of
+OpenStack.
+
+Role included, but not limited to:
+
+Working with Cloud customers to help them understand how cloud would fit
+their needs
+
+Working with OpenStack  and helping to build a more stable cloud
+platform.
+
+Working with internal teams to help troubleshoot customer issues,
+ranging from OS-side application issues, to potential issues with the
+Xen hypervisor
+
+Helping to resolve issues on the OS, dealing with a wide-range of
+problems, be it performance tuning, troubleshooting applications or just
+patching the system.
+
+Date: March 2010 – February 2012
+
+IT First Line Servicedesk Engineer
+
+The Warranty Group:
+
+The Warranty is the world’s leading single-source provider for the
+underwriting, administration and marketing of service contracts and
+related benefits. With the global market intelligence of 1800 employees
+in 33 countries, and with 46 years of experience.
+
+Role Includes:
+
+Liaising with customers and clients in UK and Europe, supporting a user
+base of 350+
+
+Ensuring Servicedesk SLA’s are met and customers are handled
+efficiently and effectively
+
+Working with Microsoft Server 2003 Citrix and Windows operating systems
+(XP, 7)
+
+Working with Avaya phone systems 
+
+Supporting users with Lotus Notes V6.5 and above
+
+Managing desktop and laptop builds, ensuring images are kept up-to-date
+and stored appropriately
+
+Completing the BACS payment service for the company on a daily service
+
+Working with iPhone, iPads and Blackberry’s
+
+Managing helpdesk tickets via TrackIT logging system
+
+Providing ‘On Call’ support out-of-hours
+
+Connecting and networking printers
+
+Ensuring data centre is neatly patched 
+
+Maintaining a professional telephone manner for those calling the
+Servicedesk
+
+Replying to customer emails for advice, hardware, software support and
+general queries
+
+Extensive use of Active Directory for managing and maintaining users,
+groups and printers
+
+Basic diagnosing of DNS and networking issues
+
+Escalating issues when issues cannot be remedied at First Line level
+
+Working with Symantec Backup Exec 2010 R2 to ensure daily and weekly
+backups are undertaken with no errors, and resolving errors by looking
+at error logs
+
+Working with AS400 backup jobs and managing schedules, tape management.
+
+Ensuring all company equipment is recorded on a asset register and kept
+updated regularly
+
+Primary contact for PO purchases and new company equipment
+
+Helping with WSUS queries such as looking for updates missed, what needs
+to be applied.
+
+Date: August 2008 – March 2010 (Part Time, Weekends Only)
+
+Retail Assistant
+
+Comet Group 
+
+ Comet is part of KESA Electricals plc, a pan-European group operating
+in 12 countries.  All of the group's operating companies share a common
+trading philosophy which is based on three principles: best price, best
+choice, and best service.
+
+Role includes
+
+liaising with clients in all areas of sales Providing a personalized
+approach in all areas of Customer Service 
+
+meeting set sales targets stocking, replenishing and cleaning sales
+areas;
+
+assisting with product selection;
+
+processing payments of various kinds;
+
+offering advice to customers;
+
+arranging delivery dates for larger items;
+
+dealing with customer complaints;
+
+utilizing specialist product knowledge;
+
+            monitoring and updating sales display areas.
+
+Education and Qualifications
+
+Date: September 2007- August 2008 
+
+GCSE: English (B, C), Science (C,C) Maths (D), P.E (B), History (C),
+Graphic Products (C)	
+
+Date: September 2008 – August 2009-10-15
+
+A Level: Economics (D), Football Coaching (A)	
+
+Passed 70-680 – Configuring Windows 7 
+
+Passed 70-290 - Managing and Maintaining a Microsoft Windows Server 2003
+Environment
+
+RHCE – RHEL6: 130-047-301
+
+Skills: I am proficient in Linux administration and all aspects of
+RedHat && CentOS systems.  I am RHCE certified for RHEL6 :
+
+Certificate Number : 130-047-301
+
+Interests and Activities
+
+I am very interested in learning new technologies, and in particular
+open-source applications. I have a passion to become the best at what I
+do and to that end, I am constantly learning new subjects that will help
+me in my day-to-day job. I am also an avid follower of OpenStack.
+
+I have a significant interest in Linux.  I am also a big fan
+configuration management software, in particular ansible. I manage my
+own github profile here:
+
+https://github.com/viralmakwana/
+
+References 
+
+Available on request
+
